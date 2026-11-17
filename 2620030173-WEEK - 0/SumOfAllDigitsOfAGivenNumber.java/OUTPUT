@@ -1,0 +1,4 @@
+bhavishyavanipenta@Bhavishyas-MacBook-Air ~ %  /usr/bin/env /Users/bhavishyavanipenta/.vscode/extensions/redhat.java-1.58.0-darwin-arm64/jre/25.0.4.1-macosx-aarch64/bin/java -XX:+ShowCodeDetailsInE
+xceptionMessages -cp /private/var/folders/ml/hylxj_g518gc0ddm_pqjvxjw0000gn/T/vscodesws_43ac6/jdt_ws/jdt.ls-java-project/bin SumOfAllDigitsOfAGivenNumber 
+Enter a number: 78
+Sum of Digits = 15

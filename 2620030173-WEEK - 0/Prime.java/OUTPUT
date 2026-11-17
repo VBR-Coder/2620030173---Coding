@@ -1,0 +1,4 @@
+bhavishyavanipenta@Bhavishyas-MacBook-Air ~ %  /usr/bin/env /Users/bhavishyavanipenta/.vscode/extensions/redhat.java-1.58.0-darwin-arm64/jre/25.0.4.1-macosx-aarch64/bin/java -XX:+ShowCodeDetailsInE
+xceptionMessages -cp /private/var/folders/ml/hylxj_g518gc0ddm_pqjvxjw0000gn/T/vscodesws_b56ff/jdt_ws/jdt.ls-java-project/bin Prime 
+Enter a number: 7
+Prime Number

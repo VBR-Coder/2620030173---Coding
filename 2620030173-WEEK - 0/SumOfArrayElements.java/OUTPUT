@@ -1,0 +1,7 @@
+bhavishyavanipenta@Bhavishyas-MacBook-Air ~ %  /usr/bin/env /Users/bhavish
+yavanipenta/.vscode/extensions/redhat.java-1.58.0-darwin-arm64/jre/25.0.4.
+1-macosx-aarch64/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /pri
+vate/var/folders/ml/hylxj_g518gc0ddm_pqjvxjw0000gn/T/vscodesws_b56ff/jdt_w
+s/jdt.ls-java-project/bin SumOfDigitsAtEvenPlacesOfAGivenNumber 
+Enter a number: 87
+Sum of Even Place Digits = 8
